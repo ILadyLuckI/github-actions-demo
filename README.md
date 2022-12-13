@@ -7,7 +7,7 @@ Mentoria sobre CI/CD com GitHub Actions
 | :sparkles: Nome        | **Demo github-actions**
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://www.pcloudy.com/wp-content/uploads/2020/03/CICD-Pipeline-Demystifying-The-Complexities-1-1024x279.png)#vitrinedev)
+![](https://www.pcloudy.com/wp-content/uploads/2020/03/CICD-Pipeline-Demystifying-The-Complexities-1-1024x279.png#vitrinedev)
 
 ## Detalhes do projeto
 
