@@ -1,0 +1,10 @@
+name: meu primeiro Workflow - GFT QA
+on: workflow_dispatch
+jobs: 
+  ingredientes:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Pegar leite
+        run: echo "Usar leite integral na GFT QA"
+      - name: Pegar farinha
+        run: echo "Usar farinha Dona Benta"
