@@ -11,15 +11,30 @@ jobs:
         
 misturar:
   runs-on: ubuntu-latest
+      steps:
+      - name: Pegar leite
+        run: echo "Usar leite integral na GFT QA"
 
 bater-na-batedeira:
   runs-on: ubuntu-latest
+      steps:
+      - name: Pegar leite
+        run: echo "Usar leite integral na GFT QA"
   
 untar-forma:
   runs-on: ubuntu-latest
+      steps:
+      - name: Pegar leite
+        run: echo "Usar leite integral na GFT QA"
   
 colocar-massa:
   runs-on: ubuntu-latest
+      steps:
+      - name: Pegar leite
+        run: echo "Usar leite integral na GFT QA"
   
 fazer-recheio:
   runs-on: ubuntu-latest
+      steps:
+      - name: Pegar leite
+        run: echo "Usar leite integral na GFT QA"
